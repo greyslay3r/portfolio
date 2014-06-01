@@ -43,6 +43,13 @@ li{
 	list-style-type: none;
 }
 
+img#arrow{
+display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
 /*#chicago{
 background-size: 50%;
  width: 100vw;
