@@ -25,12 +25,6 @@ img#logo{
 
 margin-top: 20px;
 margin-left: 150px;
-
-/*display: block;
-    margin-left: auto;
-    margin-right: auto;*/
-
-
 }
 
 h3{
@@ -45,14 +39,9 @@ li{
 
 img#arrow{
 display: block;
-    margin-left: auto;
+margin-top: 100px;
+    margin-left: 200px;
     margin-right: auto
 
+
 }
-
-/*#chicago{
-background-size: 50%;
- width: 100vw;
- height: 30vh;
-
-}*/
